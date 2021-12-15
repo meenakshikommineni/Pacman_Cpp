@@ -1,0 +1,14 @@
+---
+:id: 102728593
+:submitters:
+- :name: Meenakshi Kommineni
+  :email: meenakshikommineni2023@u.northwestern.edu
+- :name: Afreen Bhumgara
+  :email: afreenbhumgara2023@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-01 05:25:33.982452000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-30 21:25:33.982452000 Z
+:status: processed
+:score: 100.0
